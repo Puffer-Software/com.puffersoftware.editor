@@ -1,6 +1,6 @@
 {
   "name" : "com.puffersoftware.editor",
-  "displayName" : "Puffer Software Extension Package",
+  "displayName" : "Puffer Software Editor Package",
   "version" : "1.0.1",
   "unity" : "2022.3",
   "author" : "Puffer Software",
