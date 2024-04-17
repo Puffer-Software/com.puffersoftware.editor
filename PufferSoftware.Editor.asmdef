@@ -1,0 +1,16 @@
+{
+    "name": "PufferSoftware.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6988165f784a03d428a2a346d18d0f82"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
