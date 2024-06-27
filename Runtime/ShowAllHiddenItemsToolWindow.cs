@@ -7,7 +7,7 @@ namespace PufferSoftware.Editor
 {
     public class ShowAllHiddenItemsToolWindow : MonoBehaviour
     {
-        [MenuItem("Puffer Software/Show All Hidden Items", false, 1)]
+        [MenuItem("Aurora/Show All Hidden Items", false, 1)]
         public static void ShowAllHiddenItems()
         {
             foreach (GameObject obj in FindObjectsOfType<GameObject>())
