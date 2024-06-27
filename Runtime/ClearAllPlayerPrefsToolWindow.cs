@@ -7,7 +7,7 @@ namespace PufferSoftware.Editor
 {
     public class ClearAllPlayerPrefsToolWindow : MonoBehaviour
     {
-        [MenuItem("Puffer Software/Clear All Player Prefs", false, 1)]
+        [MenuItem("Aurora/Clear All Player Prefs", false, 1)]
         public static void ClearAllPlayerPrefs()
         {
             PlayerPrefs.DeleteAll();
